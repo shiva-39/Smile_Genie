@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "238346801600",
+    "project_id": "db-storage-4bd64",
+    "storage_bucket": "db-storage-4bd64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238346801600:android:2bc65cb149ce2a8dc7f825",
+        "android_client_info": {
+          "package_name": "com.example.db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIxY-w_zyE5-Knjy2ajpJss65S7Bm5KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238346801600:android:c2968966bb395e81c7f825",
+        "android_client_info": {
+          "package_name": "com.example.rtrp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIxY-w_zyE5-Knjy2ajpJss65S7Bm5KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
